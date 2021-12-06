@@ -1,1 +1,27 @@
+body {color:#FFFFFF;
+    background-color:#000000;
+  
+  }
+  
+  h1 {font-size:20px;
+  
+  }
+  
+  p {font-size:12px;
+    color:#023d1b;
+   
+  }
+  
+  
+   div .border {
+    border: 2px dotted;}
+  
+  div .box  {
+    box-sizing: width 100px; height 100px;
+    
+     
+   }
+  
+  ol {list-style-type:lower-alpha;}
+  ul {list-style-type:square;}
 
